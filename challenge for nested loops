@@ -1,0 +1,11 @@
+5
+for x in range(5):
+    for y in range(4):
+        star=(x+y)
+
+print(star)
+
+#code begins here
+#real code begins here
+#perfect perfection
+
